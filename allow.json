@@ -1,0 +1,11 @@
+{
+  "applinks": {
+      "apps": [],
+      "details": [
+        {
+          "appID": "98FT7PXNLM.io.snappseed.chatgtp",
+          "paths": [ "/open/*" ]
+        }
+      ]
+  }
+}
